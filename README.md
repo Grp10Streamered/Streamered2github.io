@@ -54,7 +54,7 @@ body {
 
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
- <a href="file:///C:/Users/Administrator/Documents/LL2.htm">Home</a>
+ <a href="https://grp10streamered.github.io/Streamered2github.io/">Home</a>
 <a href="https://grp10streamered.github.io/Streamered3github.io/">Viewer analysis and Characteristics of a good stream</a>
   <a href="https://grp10streamered.github.io/Streamered4github.io/">Contents</a>
   <a href="https://grp10streamered.github.io/Streameredgithub.io/">Contact And Sources</a>
